@@ -1,0 +1,43 @@
+[{
+    "article": "Maceta",
+    "img": "./assets/img/homedeco.jpg",
+    "mat": "PLA",
+    "price": 1000,
+    "stock": 2,
+    "id": 0
+}, {
+    "article": "Ipad Gadget",
+    "img": "./assets/img/gadget.jpg",
+    "mat": "PLA",
+    "price": 1500,
+    "stock": 4,
+    "id": 1
+}, {
+    "article": "Figura Pokemon",
+    "img": "./assets/img/gaming.jpg",
+    "mat": "PETG",
+    "price": 1800,
+    "stock": 5,
+    "id": 2
+}, {
+    "article": "Figura Mario Bross",
+    "img": "./assets/img/figura.jpg",
+    "mat": "PETG",
+    "price": 1800,
+    "stock": 11,
+    "id": 3
+}, {
+    "article": "Cuadro Alce",
+    "img": "./assets/img/arte.jpg",
+    "mat": "PETG",
+    "price": 2000,
+    "stock": 3,
+    "id": 4
+}, {
+    "article": "Prensas",
+    "img": "./assets/img/herramientas.jpg",
+    "mat": "PETG",
+    "price": 1200,
+    "stock": 5,
+    "id": 5
+}]
